@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ZJHAppDemo/ZJHAppDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ZJHStaticSDK/ZJHStaticSDK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ZJHDynamicSDK/ZJHDynamicSDK.xcodeproj">
+   </FileRef>
+</Workspace>
